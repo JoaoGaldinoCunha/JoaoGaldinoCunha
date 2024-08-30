@@ -42,6 +42,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)](https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)
+[![Linkedin](https://img.shields.io/badge/-João_Victor_Galdino_Cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)](https://br.linkedin.com/in/jo%C3%A3o-victor-galdino-cunha-47a0a32a9)
 [![Gmail Badge](https://img.shields.io/badge/-joaovictorgacunha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictorgacunha@gmail.com)](mailto:joaovictorgacunha@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/JoaoGaldinoCunha)
